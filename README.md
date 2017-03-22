@@ -1,7 +1,7 @@
 Program to determin information about connect joysticks
 
 download
-
+```bash
 cd N64bluetooth
 
 ./install.sh
@@ -22,3 +22,4 @@ cmake ..
 
 make
 ./Bran
+```
